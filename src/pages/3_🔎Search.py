@@ -4,7 +4,7 @@ import pandas as pd
 txt = 'Advanced search'
 st.markdown(f''':rainbow[{txt}]''' + '''  🧐''')
 
-DATA = pd.read_csv('../data/series_data.csv')
+DATA = pd.read_csv('data/series_data.csv')
 df = pd.DataFrame(DATA)
 
 # CHECKBOX
