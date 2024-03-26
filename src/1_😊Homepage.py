@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 #HOMEPAGE
-DATA = pd.read_csv('../data/series_data.csv')
+DATA = pd.read_csv('data/series_data.csv')
 df = pd.DataFrame(DATA)
 
 st.set_page_config(
