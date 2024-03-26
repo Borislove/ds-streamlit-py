@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # ---TOP SERIAL---
-DATA = pd.read_csv('../data/series_data.csv')
+DATA = pd.read_csv('data/series_data.csv')
 df = pd.DataFrame(DATA)
 
 txt = 'Top Serials'
