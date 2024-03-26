@@ -7,7 +7,6 @@ Top 2000 TV Series according to Number of Votes
 
  ------------------------------
  ## Demo app
-
- [demo](https://ds-app-py-zmaetvqkgupktqkvwoyv79.streamlit.app/DataSet)
+ [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ds-app-py-zmaetvqkgupktqkvwoyv79.streamlit.app/Search)
 
  
