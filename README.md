@@ -4,7 +4,7 @@ author:
 Borislove
 
 ------------------------------
-![](https://github.com/Borislove/files/blob/main/my-steamlit-demo-app.png)
+![](https://github.com/Borislove/files/blob/main/streamlit-ds.png)
 
 
 ## Dataset:
